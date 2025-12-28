@@ -1,0 +1,8 @@
+# Data
+/books
+
+# VSCode
+.vscode
+
+# Python
+__pycache__
