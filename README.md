@@ -1,8 +1,14 @@
 # bookbot
 
-BookBot is my first [Boot.dev](https://www.boot.dev) project!
+BookBot is a project for [Boot.dev](https://www.boot.dev)!
 
-get books with
+Counts words in provided book and prints character count sorted by the number of appearances.
+
+```python
+Usage: python3 main.py <path_to_book>
+```
+
+Get books with
 
 
 ```python
